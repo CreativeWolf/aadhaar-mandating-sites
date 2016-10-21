@@ -1,2 +1,1 @@
-# aadhaar-mandating-sites
-List of Indian Government Sites that mandate Aadhaar
+# List of Indian Government Sites that mandate Aadhaar
